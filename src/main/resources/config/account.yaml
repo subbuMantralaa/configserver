@@ -1,0 +1,14 @@
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to My Microservice"
+  contactDetails:
+    name: "Subbu"
+    email: "subbu@gmail.com"
+  onCallSupport:
+      -(+91)9949500259
+
+

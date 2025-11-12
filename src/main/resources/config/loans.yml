@@ -1,0 +1,12 @@
+
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to My loans Microservice"
+  contactDetails:
+    name: "Subbu"
+    email: "subbu@gmail.com"
+  onCallSupport:
+    -(+91)9949500259
